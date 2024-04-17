@@ -12,7 +12,6 @@ button {
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background: #ffffff;
 }
 
 /*=== HEADER ===*/
@@ -134,6 +133,9 @@ body {
 }
 /* ===OUR PORTFOLIO=== */
 .section-portfolio {
+  background-color: #f4f4fd;
+}
+.team-list {
   background-color: #ffffff;
 }
 .portfolio-title {
