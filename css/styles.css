@@ -10,7 +10,7 @@ button {
   cursor: pointer;
 }
 body {
-  font-family: "Roboto", sans-serif, "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background: #ffffff;
 }
@@ -43,12 +43,14 @@ body {
 .span-active-studio {
   text-decoration: underline;
 }
+.address-info {
+  font-style: normal;
+}
 .address-info-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 
 .address-info-link:hover,
@@ -81,6 +83,7 @@ body {
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
+  font-family: "Roboto", sans-serif;
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -113,6 +116,7 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .team-list-title {
   font-weight: 500;
@@ -146,6 +150,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .portfolio-text {
   font-weight: 400;
