@@ -107,7 +107,7 @@ body {
 }
 /* ===Our Team=== */
 .section-our-team {
-  background: #f4f4fd;
+  background: #ffffff;
 }
 .team-title {
   font-weight: 700;
@@ -163,7 +163,7 @@ body {
 .page-footer {
   background: #2e2f42;
 }
-.color-f4f4fd {
+.span-color-white {
   color: #f4f4fd;
 }
 .text-footer {
