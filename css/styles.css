@@ -107,7 +107,10 @@ body {
 }
 /* ===Our Team=== */
 .section-our-team {
-  background: #ffffff;
+  background: #f4f4fd;
+}
+.team-list {
+  background-color: #ffffff;
 }
 .team-title {
   font-weight: 700;
